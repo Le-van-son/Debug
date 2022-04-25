@@ -1,6 +1,4 @@
-package Debug_Trycatch;
-
-import jdk.internal.org.objectweb.asm.tree.TryCatchBlockNode;
+package debug_trycatch;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

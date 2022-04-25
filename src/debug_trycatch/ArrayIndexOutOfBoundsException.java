@@ -1,4 +1,4 @@
-package Debug_Trycatch;
+package debug_trycatch;
 
 import java.util.Random;
 
